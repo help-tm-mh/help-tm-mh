@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @help-tm-mh
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning HTML with my coding club and C# in my class
+- 🌱 I did a semester on C++ and have history with C#, Java, Javascript, and other stuff.
 - 💞️ I’m not looking to collaborate right now. Might pursue more public projects soon.
 - 📫 How to reach me: no
 
